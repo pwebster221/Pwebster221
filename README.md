@@ -49,7 +49,7 @@ I'm a student at **Colorado State University (CSU)**, passionate about **web dev
 
 ## 🔖 Top Repositories
 
-[![the Esoteric Repository](https://github-readme-stats.vercel.app/api/pin/?username=pwebster221&repo=the-repository&theme=dracula)](https://github.com/pwebster221/the-repository)
+[![the Esoteric Repository](https://github-readme-stats.vercel.app/api/pin/?username=pwebster221&repo=The-Repository&theme=dracula)](https://github.com/pwebster221/The-Repository)
 
 ---
 
